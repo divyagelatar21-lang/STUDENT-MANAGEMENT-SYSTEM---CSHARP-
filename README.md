@@ -1,2 +1,0 @@
-# STUDENT-MANAGEMENT-SYSTEM---CSHARP-
-My first project 
